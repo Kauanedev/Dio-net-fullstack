@@ -1,0 +1,11 @@
+C:\Users\Kauane\Studies\DIO\dotnet\ProjetoFundamentos\ProjetoFundamentos.Common\bin\Debug\net8.0\ProjetoFundamentos.Common.deps.json
+C:\Users\Kauane\Studies\DIO\dotnet\ProjetoFundamentos\ProjetoFundamentos.Common\bin\Debug\net8.0\ProjetoFundamentos.Common.dll
+C:\Users\Kauane\Studies\DIO\dotnet\ProjetoFundamentos\ProjetoFundamentos.Common\bin\Debug\net8.0\ProjetoFundamentos.Common.pdb
+C:\Users\Kauane\Studies\DIO\dotnet\ProjetoFundamentos\ProjetoFundamentos.Common\obj\Debug\net8.0\ProjetoFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauane\Studies\DIO\dotnet\ProjetoFundamentos\ProjetoFundamentos.Common\obj\Debug\net8.0\ProjetoFundamentos.Common.AssemblyInfoInputs.cache
+C:\Users\Kauane\Studies\DIO\dotnet\ProjetoFundamentos\ProjetoFundamentos.Common\obj\Debug\net8.0\ProjetoFundamentos.Common.AssemblyInfo.cs
+C:\Users\Kauane\Studies\DIO\dotnet\ProjetoFundamentos\ProjetoFundamentos.Common\obj\Debug\net8.0\ProjetoFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Users\Kauane\Studies\DIO\dotnet\ProjetoFundamentos\ProjetoFundamentos.Common\obj\Debug\net8.0\ProjetoFundamentos.Common.dll
+C:\Users\Kauane\Studies\DIO\dotnet\ProjetoFundamentos\ProjetoFundamentos.Common\obj\Debug\net8.0\refint\ProjetoFundamentos.Common.dll
+C:\Users\Kauane\Studies\DIO\dotnet\ProjetoFundamentos\ProjetoFundamentos.Common\obj\Debug\net8.0\ProjetoFundamentos.Common.pdb
+C:\Users\Kauane\Studies\DIO\dotnet\ProjetoFundamentos\ProjetoFundamentos.Common\obj\Debug\net8.0\ref\ProjetoFundamentos.Common.dll

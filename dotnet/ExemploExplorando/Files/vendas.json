@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Material de Escritório",
+    "Preco": 10.50,
+    "DataVenda": "2024-08-30T16:07:28.9440256-03:00"
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Material Escolar",
+    "Preco": 230.50,
+    "DataVenda": "2024-08-30T16:07:28.9440256-03:00"
+  }
+]
